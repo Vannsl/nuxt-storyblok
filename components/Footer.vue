@@ -3,9 +3,12 @@
     <li class="mr-6 hover:text-grey-lightest">
       <nuxt-link to="/impressum">Impressum</nuxt-link>
     </li>
-    <li class="mr-6 hover:text-grey-lightest">
-      <nuxt-link to="/datenschutz">Datenschutz</nuxt-link>
+    <li class="hover:text-grey-lightest">
+      Copyright 2018 vannsl.io
     </li>
+    <!-- <li class="mr-6 hover:text-grey-lightest">
+      <nuxt-link to="/datenschutz">Datenschutz</nuxt-link>
+    </li> -->
   </ul>
 </template>
 

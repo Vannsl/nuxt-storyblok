@@ -1,30 +1,34 @@
 <template>
-  <div class="gradient bg-red-dark">
-    <div class="container-md flex justify-around py-32">
-      <icon-counter
-        :count="3"
-        title="Podcasts"
-      >
-        <podcast />
-      </icon-counter>
-      <icon-counter
-        :count="10"
-        title="Länder"
-      >
-        <earth />
-      </icon-counter>
-      <icon-counter
-        :count="20"
-        title="Flaschen"
-      >
-        <bottle />
-      </icon-counter>
-      <icon-counter
-        :count="80"
-        title="Gläser"
-      >
-        <glass />
-      </icon-counter>
+  <div class="gradient">
+    <div class="container-md flex justify-center flex-wrap py-32">
+      <div class="flex justify-around w-400 max-w-full">
+        <icon-counter
+          :count="0"
+          title="Episoden"
+        >
+          <podcast />
+        </icon-counter>
+        <icon-counter
+          :count="0"
+          title="Länder"
+        >
+          <earth />
+        </icon-counter>
+      </div>
+      <div class="flex justify-around w-400 max-w-full">
+        <icon-counter
+          :count="0"
+          title="Flaschen"
+        >
+          <bottle />
+        </icon-counter>
+        <icon-counter
+          :count="0"
+          title="Gläser"
+        >
+          <glass />
+        </icon-counter>
+      </div>
     </div>
   </div>
 </template>
@@ -50,6 +54,6 @@ export default {
 
 <style lang="scss" scoped>
 .gradient {
-  background: linear-gradient(20deg, #621b18, #ef5753 90%);
+  background: linear-gradient(20deg, #1a4731, #51d88a 90%);
 }
 </style>

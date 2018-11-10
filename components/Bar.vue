@@ -16,11 +16,14 @@
   >
     <div class="flex justify-between px-8 py-2">
       <div class="self-center">
-        <nuxt-link to="/">
+        <nuxt-link
+          to="/"
+          class="no-underline"
+        >
           Ausbaufähig
         </nuxt-link>
       </div>
-      <social />
+      <!-- <social /> -->
     </div>
   </div>
 </template>

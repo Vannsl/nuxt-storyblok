@@ -30,7 +30,8 @@ module.exports = {
   css: [
     '~/assets/css/reset.css',
     '~/assets/css/tailwind.css',
-    '~/assets/img/hero.jpg'
+    '~/assets/img/hero.jpg',
+    '~/assets/img/ben_und_vanessa.jpg'
   ],
 
   /*
