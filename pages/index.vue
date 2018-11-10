@@ -6,13 +6,13 @@
       <section class="container-md p-8 my-16">
         <div class="flex flex-wrap flex-row-reverse">
           <div
-            class="flex-1 px-4"
+            class="flex-1 max-w-full px-4"
             style="min-width: 300px;"
           >
             <div class="circular-image" />
           </div>
           <div
-            class="flex-1 px-4 text-xl leading-tight"
+            class="flex-1 px-4 max-w-full text-xl leading-tight"
             style="min-width: 300px;"
           >
             <div class="mb-8">
