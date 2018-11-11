@@ -2,7 +2,7 @@
   <div>
     <bar :should-check-stickyness="false" />
     <div class="content flex-1">
-      <section class="container-md p-8 my-16">
+      <section class="container mx-auto p-8 my-16">
         <h1 class="text-xl mb-4">Impressum</h1>
         <p>
           <a href="https://vannsl.io">
