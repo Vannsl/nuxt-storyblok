@@ -23,7 +23,7 @@
           <bottle />
         </icon-counter>
         <icon-counter
-          :count="0"
+          :count="100"
           title="Gläser"
         >
           <glass />
