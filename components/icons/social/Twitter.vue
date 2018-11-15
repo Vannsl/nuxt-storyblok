@@ -1,7 +1,7 @@
 <template>
   <a
     class="twitter"
-    href="https://twitter.com"
+    href="https://twitter.com/ausbaufahig"
   >
     <svg
       class="fill-current"

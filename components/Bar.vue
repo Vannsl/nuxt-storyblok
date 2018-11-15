@@ -23,7 +23,7 @@
           Ausbaufähig
         </nuxt-link>
       </div>
-      <!-- <social /> -->
+      <social />
     </div>
   </div>
 </template>
