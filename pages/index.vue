@@ -18,11 +18,9 @@
             <div class="mb-8">
               Hallo,<br><br>
               wir sind Ben und Vanessa und bald findest du hier die Episoden unseres Podcasts <strong>Ausbaufähig</strong>. Jede Woche (ist zumindest der Plan) werden wir einen Wein zu einem bestimmten Thema (z.B. wie aktuell die Forum Vini 2018, oder ein spezifisches Land, Region etc.) trinken und über ihn reden. Wir sind keine ausgebildeten Sommeliers, sondern genießen einfach sehr gerne guten Wein und fanden es schade, dass es so wenig deutsche Podcasts über Wein gibt. Denn schließlich ist es nicht immer leicht, einen spannenden neuen Wein zu finden. Üblicherweise kosten unsere Weine zwischen 6,50 und 30 €, der Hauptanteil wird bei 15 € liegen. Also! Bald geht es los, wir freuen uns auf drauf!
-            </div>
-            <div>
+              <br><br>
               Du wartest ganz gespannt auf die erste Episode? Folge uns einfach auf unserem <a href="https://twitter.com/ausbaufahig" target="_blank">Twitter-Account</a>, da werden wir tweeten, sobald neue Revisionen zur Verfügung stehen!
-            </div>
-            <div>
+              <br><br>
               Hast du Fragen? Dann schreibe uns gerne an <a href="mailto:mail@vannsl.io">mail@vannsl.io</a>.
             </div>
           </div>

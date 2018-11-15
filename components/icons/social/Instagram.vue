@@ -1,7 +1,7 @@
 <template>
   <a
     class="instagram"
-    href="https://instagram.com"
+    href="https://www.instagram.com/ausbaufaehig_podcast"
   >
     <svg
       class="fill-current"
