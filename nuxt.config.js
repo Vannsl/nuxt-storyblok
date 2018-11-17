@@ -38,6 +38,7 @@ module.exports = {
   ** Plugins to load before mounting the App
   */
   plugins: [
+
   ],
 
   /*
@@ -45,13 +46,17 @@ module.exports = {
   */
   modules: [
     // Doc: https://github.com/nuxt-community/axios-module#usage
-    '@nuxtjs/axios'
+    '@nuxtjs/axios',
+    'nuxt-purgecss'
   ],
   /*
   ** Axios module configuration
   */
   axios: {
     // See https://github.com/nuxt-community/axios-module#options
+  },
+  purgeCSS: {
+    mode: postcss
   },
 
   /*
