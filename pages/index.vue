@@ -44,7 +44,17 @@ export default {
     Hero,
     FooterBar,
     Counter
-  }
+  },
+  head() {
+    return {
+      title: 'Ausbaufähig - der Wein-Podcast',
+      meta: [
+        // hid is used as unique identifier. Do not use `vmid` for it as it will not work
+        { hid: 'description', name: 'description', content: 'Beim Wein-Podcast Ausbaufähig von Ben und Vanessa werden verschiedenste Weine aus der ganzen Welt getrunken und besprochen. Weder Ben noch Vanessa sind ausgebildete Sommeliers, sie trinken einfach nur gern Wein! Und wie Wein erstmal im Fass ausgebaut werden muss, bevor er gut wird, ist ihr Wissen daher auch eher "ausbaufähig", aber sie trinken trotzdem gerne!' },
+        { hid: 'author', name: 'author', content: 'Vannsl.io, Vanessa Böhner'}
+      ]
+    }
+  },
 }
 </script>
 
